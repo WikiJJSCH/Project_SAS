@@ -1,0 +1,278 @@
+Ville,Date Vente,Marque,Modele,Type,annee,Num_serie,Conduite,Kilometrage,prix_propose,Adjuge,Qualite,Commentaires,devise
+Newport-Pagnell,20020511,Aston-Martin,Lagonda,Berline,1979,,,,,15680,OR+,,Euros
+Fontainebleau,20030323,Aston-Martin,Lagonda,Berline,1979,,RHD,,,14000,REST-,,Euros
+UK,20010726,Aston-Martin,Lagonda,Berline,1980,,,,,12653,OR+,,Euros
+Buxton,20021204,Aston-Martin,Lagonda,Berline,1980,,,,,9760,OR+,,Euros
+Buxton,20020410,Aston-Martin,Lagonda,Berline,1983,,,,,9900,OR+,,Euros
+CH,20010305,Aston-Martin,Lagonda,Berline,1984,,,,,19513,OR+,,Euros
+Newport-Pagnell,20010512,Aston-Martin,Lagonda,Berline,1984,,,,,24087,OR+,,Euros
+Londres,20020910,Aston-Martin,Lagonda,Berline,1984,,,,,20800,OR+,,Euros
+Buxton,20010926,Aston-Martin,Lagonda,Berline,1986,,,,,17837,OR+,,Euros
+CH,20030310,Aston-Martin,Lagonda,Berline,1989,,LHD,,,77000,EX,,Euros
+CH,20020311,Aston-Martin,Lagonda,Berline,1990,,,,,21760,OR+,,Euros
+Londres,20020225,BMW,Z1,,1989,,,,,18980,OR+,,Euros
+Paris,20020304,BMW,Z1,,1990,,,,,18500,OR+,,Euros
+Monaco,20010521,De Tomaso,Pantera,GTS,1971,,,,,22105,REST,,Euros
+CH,20010305,De Tomaso,Pantera,GTS,1972,,,,,18141,OR+,,Euros
+Paris,20030616,De Tomaso,Pantera,GTS,1978,THPN 09054 ,,17500,,29485,EX,Frais inclus,Euros
+ClassicEtRacing,200306,De Tomaso,Pantera,,1978,,,,,29400,,,Euros
+Silverstone,19970726,Ferrari,212,INTER,1952,#0255EU ,,,,145000,,dark red/red ,Livre sterling
+Nurburgring,19970809,Ferrari,250,Europa,,#0323EU ,,,,268250,,Coupé PininFarina ,DM
+USA,19980000,Ferrari,250,GT Berlinetta Lusso,,#5251GT,,,,113000,,,Dollar US
+USA,19980000,Ferrari,250,GT Berlinetta Lusso,,#5275GT,,,,120000,,,Dollar US
+Silverstone,19970726,Ferrari,250,GT Berlinetta Lusso,,#5541GT ,,,,78000,,dark red/tan ,Livre sterling
+Le Mans,20020921,Ferrari,250,GT Berlinetta Lusso,1964,,LHD,,,198000,REST+,,Euros
+USA,20020118,Ferrari,250,GT Berlinetta Lusso,1961,#2549GT,LHD,,,943000,REST+,,Euros
+Londres,20021202,Ferrari,250,GT Berlinetta Lusso,1964,#5251GT,LHD,,,147200,REST+,,Euros
+CH,20021220,Ferrari,250,GT Berlinetta Lusso,1964,#5303GT,LHD,,,201280,OR+,,Euros
+CH,20021220,Ferrari,250,GT Berlinetta Lusso,1964,#5367GT,LHD,,,363800,REST+,Modele 6 Carburateurs,Euros
+USA,20011218,Ferrari,250,GT Berlinetta Lusso,1961,#2443GT,,,,955703,EX,Porte aluminium,Euros
+Rockingham,20010507,Ferrari,250,GT Berlinetta Lusso,1964,,LHD,,,144217,OR+,,Euros
+Londres,20010730,Ferrari,250,GT Berlinetta Lusso,1964,,LHD,,,203519,OR+,,Euros
+USA,20010120,Ferrari,250,GT Berlinetta Lusso,1963,#5251GT,LHD,,,133393,REST,,Euros
+CH,20011218,Ferrari,250,GT Berlinetta Lusso,1964,#5359GT,LHD,,,175011,REST+,,Euros
+ClassicEtRacing,200306,Ferrari,250,GT Berlinetta Lusso,1964,,,,,170000,,,Euros
+USA,19980000,Ferrari,250,GT Boano rebodied as LWB California Spyder,,0627GT,,,,332500,,,Dollar US
+USA,19980000,Ferrari,250,GT Cabriolet,,1967GT,,,,130000,,Pininfarina,Dollar US
+Nurburgring,19970809,Ferrari,250,GT Cabriolet Series II ,,1841GT ,,,,191250,,dark red/tan ,DM
+Silverstone,19980725,Ferrari,250,GT California Spider LWB,,1253GT1 ,,,,330000,,dark metallic green/cream,Livre sterling
+Silverstone,19970726,Ferrari,250,GT Coupé Boano,,0631GT ,,,,75000,,silvergrey met./red ,Livre sterling
+Silverstone,19980725,Ferrari,250,GT Coupé Boano,,0533GT,,,,34000,,yellow w/d'grey top/light grey,Livre sterling
+Silverstone,19970726,Ferrari,250,GT LWB Berl. Scagl. TdF,,1139GT ,,,,300000,,red/brown ,Livre sterling
+USA,19980000,Ferrari,250,GT PF Coupe,,1987GT,,,,48000,,,Dollar US
+ClassicEtRacing,200306,Ferrari,250,GT Pininfarina,1958,,,,,54000,,,Euros
+CH,199812,Ferrari,250,LM,1965,#6233,,,,2420000,,,CHF
+USA,197912,Ferrari,250,LM,1965,#6233,,,,150000,,,Dollar US
+USA,19980000,Ferrari,275,GTB,,7473,,,,205000,,,Dollar US
+ClassicEtRacing,200306,Ferrari,275,GTB,1965,,,,,192000,,,Euros
+USA,19980000,Ferrari,275,GTB 4,,10565,,,,233000,,,Dollar US
+Silverstone,19970726,Ferrari,275,GTB 4,,10243,,,,170000,,red/black ,Livre sterling
+Silverstone,19970726,Ferrari,275,GTB 4,,9925,,,,132000,,red/black ,Livre sterling
+ClassicEtRacing,200306,Ferrari,275,GTB 4,1968,,,,,362000,,,Euros
+ClassicEtRacing,200306,Ferrari,275,GTB Long Nose,1966,,,,,205000,,,Euros
+Silverstone,19970726,Ferrari,275,GTB/2  Longnose,,8801,,,,98000,,red/black ,Livre sterling
+USA,19980000,Ferrari,275,NART Spyder Conversion,,7061,,,,220000,,,Dollar US
+Monaco,20020518,Ferrari,288,GTO,1985,,,,,197000,OR+,,Euros
+Nurburgring,20020810,Ferrari,288,GTO,1985,,,,,215000,OR+,,Euros
+CH,20011218,Ferrari,288,GTO,1985,#55683,,,,210532,OR+,,Euros
+Monaco,20020517,Ferrari,288,GTO,1986,,,,,245000,OR+,,Euros
+Nurburgring,19970809,Ferrari,288,GTO,,#55223,,,,390000,,red/black ,DM
+Monaco,20020518,Ferrari,308,GTB,1977,,,,,15000,OR,,Euros
+Buxton,20021002,Ferrari,308,GTB,1978,,RHD,,,30400,OR+,,Euros
+Londres,20020430,Ferrari,308,GTB,1980,,RHD,,,28880,OR+,,Euros
+Londres,20021205,Ferrari,308,GTB Poly,1976,,RHD,17000,,43200,EX,,Euros
+Buxton,20010214,Ferrari,308,GTB Poly,1976,#19877,RHD,,,39332,OR+,,Euros
+Birmingham,20030111,Ferrari,308,GTB Poly,1977,,RHD,,,32550,REST,,Euros
+Silverstone,19970726,Ferrari,308,GTB Poly,,20353,,,,24000,,red/black ,Livre sterling
+Silverstone,19980725,Ferrari,308,GTB Poly,,19169,,,,25000,,silver metallic/black ,Livre sterling
+Paris,20021118,Ferrari,308,GTBi,1982,ZFFHAOB000040261,,,28000,24000,,,Euros
+Paris,20021118,Ferrari,308,GTBi,1982,,LHD,,,24000,OR+,,Euros
+CH,20021130,Ferrari,308,GTBi,1982,,LHD,,,19380,OR+,,Euros
+CH,20021220,Ferrari,308,GTBi,1982,,LHD,,,18360,REST,,Euros
+Blackbushe,20010326,Ferrari,308,GTBi,1982,,RHD,,,21800,OR+,,Euros
+CH,20011218,Ferrari,308,GTBi,1982,,LHD,,,18141,REST,,Euros
+Fontainebleau,20020317,Ferrari,308,GTS,1978,,LHD,,,26000,OR+,,Euros
+Paris,20010709,Ferrari,308,GTS,1978,,,,,19818,OR,EX-USA,Euros
+Paris,20020708,Ferrari,308,GTS,1979,,LHD,,,17000,OR,,Euros
+USA,20010819,Ferrari,308,GTS,1979,,,,,33234,OR,EX-USA,Euros
+Paris,20030331,Ferrari,308,GTS,1980,ZFF106AS31919,LHD,,,25000,,,Euros
+CH,20020427,Ferrari,308,GTS,1980,,LHD,,,25200,OR+,,Euros
+Paris,20011112,Ferrari,308,GTS,1980,,,,,24392,OR+,EX-Jpaul Belmondo,Euros
+CH,20011218,Ferrari,308,GTS,1980,,,,,24697,OR+,,Euros
+Londres,20020325,Ferrari,308,GTS,1981,,RHD,,,26400,OR+,,Euros
+ClassicEtRacing,200306,Ferrari,308,GTS,1978,,,,,16000,,,
+Fontainebleau,20010617,Ferrari,308,GTS QV,1983,,,,,19056,OR,,Euros
+Sandown Park,20011009,Ferrari,308,GTS QV,1985,,RHD,,,29575,REST,,Euros
+Paris,20010423,Ferrari,308,GTSi,1981,,,,,20733,OR+,,Euros
+Goodwood,20010706,Ferrari,308,GTSi,1981,,RHD,,,31862,OR+,,Euros
+Londres,20021205,Ferrari,308,GTSi,1982,,LHD,,,26400,OR+,EX-USA,Euros
+CH,20010428,Ferrari,308,GTSi,1982,,LHD,,,28508,OR+,,Euros
+Monaco,20010525,Ferrari,308,GTSi,1982,#35351,,,,30490,EX,Prototype QV,Euros
+CH,20011218,Ferrari,328,GTB,1987,,,774,,45430,EX,,Euros
+Londres,20020430,Ferrari,328,GTB,1988,,,,,35480,OR+,,Euros
+Paris,20020304,Ferrari,328,GTS,1986,,,,,28000,OR,EX-USA,Euros
+Goodwood,20020906,Ferrari,328,GTS,1986,,,,,38400,OR+,,Euros
+Monaco,20010521,Ferrari,328,GTS,1988,,,,,38874,OR+,,Euros
+Paris,20011210,Ferrari,328,GTS,1989,,,100,,58236,EX,,Euros
+CH,20020311,Ferrari,328,GTS,1989,,,150,,59160,EX,,Euros
+CH,20021220,Ferrari,328,GTS,1989,,,12000,,38080,OR+,,Euros
+ClassicEtRacing,200306,Ferrari,330,GT Coupé,1964,,,,,24000,,,Euros
+Paris,20021216,Ferrari,330,GTC,1967,9839,,,60000,65000,,,Euros
+Silverstone,19970726,Ferrari,330,GTC,,11137,,,,40000,,burgundy/black ,Livre sterling
+Paris,20030616,Ferrari,330,GTC,1968,#10909,,,,98754,OR+,Frais inclus,Euros
+ClassicEtRacing,200306,Ferrari,330,GTC,1968,,,,,98000,,,
+USA,19980000,Ferrari,330,GTS,,10499,,,,131000,,,Dollar US
+Silverstone,19980725,Ferrari,348,GT Competizione,,98105,,,,45000,,red/red cloth,Livre sterling
+USA,20020921,Ferrari,348,TB ,1991,,,,,69300,OR+,,Euros
+Dijon,20020617,Ferrari,348,TS,1991,,,,,38000,OR+,,Euros
+Silverstone,19980725,Ferrari,365,GT 2+2,,12829,,,,14000,,silvergrey metallic/black,Livre sterling
+Silverstone,19970726,Ferrari,365,GT4 2+2 ,,17545,,,,18000,,black/beige ,Livre sterling
+Silverstone,19970726,Ferrari,365,GT4 BB,,18087,,,,44000,,red/black ,Livre sterling
+Londres,20020304,Ferrari,365,GT4 BB,1973,#17861,RHD,,,46200,OR+,,Euros
+Londres,20021003,Ferrari,365,GT4 BB,1973,#17861,RHD,,,43200,OR+,,Euros
+USA,20020504,Ferrari,365,GT4 BB,1974,#17553,LHD,,,79350,REST,,Euros
+Londres,20020722,Ferrari,365,GT4 BB,1974,#17741,RHD,,,44000,OR+,,Euros
+Buxton,20020724,Ferrari,365,GT4 BB,1974,#17933,RHD,,,51200,REST+,,Euros
+CH,20011218,Ferrari,365,GT4 BB,1974,,LHD,,,46649,OR+,,Euros
+Silverstone,19970726,Ferrari,365,GT4 BB ,,19343,,,,36000,,black/black ,Livre sterling
+Silverstone,19970726,Ferrari,365,GT4 BB ,,17967,,,,52000,,red w/Boxer trim/cream ,Livre sterling
+USA,19980000,Ferrari,365,GTB/4,,14125,,,,118000,,,Dollar US
+USA,19980000,Ferrari,365,GTB/4,,14201,,,,106000,,,Dollar US
+ClassicEtRacing,200306,Ferrari,365,GTB/4 Daytona,1974,,,,,95000,,,Euros
+Silverstone,19980725,Ferrari,365,GTB/4 Daytona (perspex),,12853,,,,64000,,red/black,Livre sterling
+USA,19980000,Ferrari,365,GTB/4 Spyder,,15183,,,,307500,,,Dollar US
+USA,19980000,Ferrari,365,GTB/4 Spyder,,17045,,,,333000,,,Dollar US
+Silverstone,19980725,Ferrari,365,GTC/4,,15999,,,,25000,,medium metallic blue/black,Livre sterling
+Silverstone,19970726,Ferrari,365,GTS/4 Daytona Spider,,15369,,,,210000,,yellow/black ,Livre sterling
+Paris,20021118,Ferrari,400,GT,1978,24869,,,22000,15500,,,Euros
+Paris,20030208,Ferrari,400,GTA,1978,,LHD,7950,,26000,EX,,Euros
+Paris,20030331,Ferrari,400,GTA,1978,ZFF101CL24869,LHD,,,15200,,EX-UDERZO,Euros
+ClassicEtRacing,200306,Ferrari,400,I,1983,,,,,21000,,,
+Silverstone,19980725,Ferrari,400,IA,,44123,,,,14000,,light metallic blue/dark blue,Livre sterling
+Paris,20030707,Ferrari,400,IA,1983,#ZFFEB06B000040977 ,,94500,,24265,OR+,Frais inclus,Euros
+Birmingham,20030111,Ferrari,456,GTA,1998,,RHD,,,87190,OR+,,Euros
+Silverstone,19970726,Ferrari,500,Superfast ,,5983SF ,,,,95000,,dark red/cream ,Livre sterling
+Silverstone,19980725,Ferrari,500,Superfast ,,6679SF,,,,100000,,gold metallic/cream,Livre sterling
+Londres,20010423,Ferrari,512,BB,1979,,,,,38417,OR+,Moteur préparé,Euros
+Buxton,20011128,Ferrari,512,BB,1980,,,,,47869,OR+,,Euros
+Silverstone,19980725,Ferrari,512,BB,,#20693,,,,37000,,red/cream,Livre sterling
+Buxton,20020220,Ferrari,512,BBi,1980,,,,,49500,OR+,,Euros
+Monaco,20010525,Ferrari,512,BBi,1982,,,,,53357,OR+,,Euros
+Paris,20021216,Ferrari,512,BBi,1982,ZFFJA09B000041351,,,55000,50000,REST,,Euros
+CH,20011218,Ferrari,512,BBi,1984,,,4447,,66163,EX,,Euros
+Nurburgring,19970809,Ferrari,512,BBi,,44661,,,,90000,,red/black ,DM
+Paris,19980330,Ferrari,512,BBi,1983,,,,,387990,,,FF
+ClassicEtRacing,200306,Ferrari,550,Barchetta,2001,,,,,170000,,,
+Londres,20021203,Ferrari,512 TR,,1992,512TR_ELTON_john,RHD,,,64000,OR+,EX-Elton John,Euros
+Londres,20010605,Ferrari,512 TR,,1992,512TR_ELTON_john,RHD,3000,,130801,EX,EX-Elton John,Euros
+Nurburgring,19970809,Ferrari,512 TR,,,#92877,,,,110000,,black/black ,DM
+Silverstone,19980725,Ferrari,Dino 246,GT,,#2556,,,,37000,,red/black,Livre sterling
+Silverstone,19980725,Ferrari,Dino 246,GT,,#3558,,,,47000,,red/black,Livre sterling
+Nurburgring,19970809,Ferrari,Dino 246,GT,,#4452,,,,86250,,red/black ,DM
+Silverstone,19970726,Ferrari,Dino 246,GTS,,#4206,,,,46000,,red/black,Livre sterling
+Nurburgring,19970809,Ferrari,Dino 246,GTS,,#2480,,,,119750,,red/tan ,DM
+Silverstone,19980725,Ferrari,Dino 246,GTS,,#4818,,,,36000,,red/black,Livre sterling
+Silverstone,19970726,Ferrari,Dino 308,GT4,,#8606,,,,13500,,red/tan ,Livre sterling
+Birmingham,20030111,Ferrari,F355,GTB,1996,,LHD,,,51150,OR+,,Euros
+CH,199812,Ferrari,F40,LM,1991,#88522,,,,619500,,Ex UDERZO,CHF
+Inconnu,199806,Ferrari,F40,LM,1991,#88522,,,,465000,,Ex UDERZO,Dollar US
+Inconnu,199805,Ferrari,F40,LM,1991,#88522,,,,455000,,Ex UDERZO,Dollar US
+Inconnu,199802,Ferrari,F40,LM,1991,#88522,,,,850000,,Ex UDERZO,DM
+USA,20020903,Ferrari,F40,,1991,,,1500,,326600,EX,,Euros
+Silverstone,19970726,Ferrari,F40 ,,,#85690,,,,125000,,red/red cloth ,Livre sterling
+Nurburgring,19970809,Ferrari,F40 ,,,#85690,,,,339750,,red/red cloth ,DM
+Monaco,20020518,Ferrari,F50,Spider,1995,,,,,395000,EX,1ere produite,Euros
+USA,20020816,Ferrari,F50,Spider,1995,,,,,554000,OR,,Euros
+Paris,20021118,Ferrari,Mondial,"QV 3,2L",1987,ZFFWD21B000073553,,50000,25000,22000,,,Euros
+Paris,20030707,Ferrari,Mondial,T,1993,#ZFFKD32B000039174 ,,45386,,27154,OR+,Frais inclus,Euros
+ClassicEtRacing,200306,Ferrari,Mondial,T,1993,,,,,23500,,,
+Paris,20021216,Ferrari,Testarossa,,1985,ZFFTA17B000056873,,49000,45000,38000,OR+,,Euros
+CH,20021220,Ferrari,Testarossa,,1986,,,,,32640,OR+,,Euros
+CH,20030310,Ferrari,Testarossa,,1986,,LHD,,,37100,OR+,,Euros
+Birmingham,20010113,Ferrari,Testarossa,,1987,,,,,41466,OR+,,Euros
+Londres,20010605,Ferrari,Testarossa,,1987,ZFF_ELTON_JOHN,RHD,,,70431,EX,EX-Elton John,Euros
+Fontainebleau,20010617,Ferrari,Testarossa,,1987,,,,,38112,OR+,,Euros
+Fontainebleau,20030323,Ferrari,Testarossa,,1987,,LHD,,,41000,OR+,,Euros
+Buxton,20030219,Ferrari,Testarossa,,1987,ZFF_ELTON_JOHN,RHD,,,54250,OR+,EX-Elton John,Euros
+CH,20011218,Ferrari,Testarossa,,1989,,,,,29118,OR+,,Euros
+CH,20021130,Ferrari,Testarossa,,1989,,,,,37400,OR+,,Euros
+Goodwood,20010706,Ferrari,Testarossa,,1990,,,,,57016,OR+,,Euros
+Fontainebleau,20021201,Ferrari,Testarossa,,1990,,,,,45000,OR+,,Euros
+Paris,19980622,Ferrari ,330,GT Coupé 2+2 Pininfarina,1967,,,,,177366,,,FF
+Paris,19980622,Ferrari ,365,GTB/4 Daytona ,1972,,,,,659581,,,FF
+Paris,19980622,Ferrari ,365,GTC/4 ,1972,,,,,376900,,,FF
+Paris,19980622,Ferrari ,400,SuperAmerica Aerodynamico,1961,,,,,1662810,,,FF
+USA,20020816,Jaguar,Type D,Barquette,1956,XKD 528,,,,970200,REST,,Euros
+Londres,20020611,Jaguar,Type D,Barquette,1956,XKD 530,,,,512000,REST,Ex Scuderia Askolin,Euros
+Goodwood,20020906,Jaguar,Type D,Barquette,1956,XKD 534,,,,704000,OR-,,Euros
+USA,20020309,Jaguar,Type D,Barquette,1955,XKD 546,,,,977500,REST+,,Euros
+Rockingham,20010527,Jaguar,Type D,Le Mans,1955,XKD 505,,,,573666,EX,Reconstruite,Euros
+Londres,20020722,Jaguar,XJ220,,1991,,RHD,,,131560,EX,Pre-Serie,Euros
+Rockingham,20010527,Jaguar,XJ220,,1992,,LHD,,,167237,OR+,,Euros
+CH,20020311,Jaguar,XJ220,,1992,,LHD,,,122400,EX,Tres faible kilometrage,Euros
+Monaco,20020518,Jaguar,XJ220,,1992,,LHD,,,122000,EX,Tres faible kilometrage,Euros
+Londres,20010605,Jaguar,XJ220,,1993,,RHD,,,352137,EX,EX-Elton John,Euros
+Londres,20011010,Jaguar,XJ220,,1993,,RHD,3000,,184463,EX,,Euros
+Monaco,20010521,Jaguar,XJ220,,1994,,LHD,1550,,175316,EX,,Euros
+Paris,20020212,Jaguar,XJ220,,1997,,LHD,,,170000,OR+,,Euros
+Londres,20020310,Jaguar,XJ220,,1997,,LHD,,,163200,OR+,,Euros
+Paris,20021216,Jaguar,XK 150S,"3,8 Coupé",1959,T836438 DN,LHD,,,38000,REST+,,Euros
+ClassicEtRacing,200306,Lamborghini,Countach,5000S,1980,,,,,46000,,,
+Paris,20020506,Lamborghini,Countach,Anniversario 25th,1990,,,,,48000,OR+,,Euros
+Monaco,20020518,Lamborghini,Countach,LP400,1976,,,,,68000,OR+,,Euros
+CH,20011201,Lamborghini,Countach,LP5000S,1984,,,,,38874,OR+,,Euros
+Londres,20020304,Lamborghini,Countach,LP5000S,1986,,,,,52800,OR+,,Euros
+Londres,20010730,Lamborghini,Countach,LP5000S QV,1987,,,,,60980,OR+,,Euros
+ClassicEtRacing,200306,Lamborghini,Miura,P400,1968,,,,,74000,,,
+ClassicEtRacing,200306,Lamborghini,Miura,P400,1967,,,,,109000,,,
+CH,20020311,Lamborghini,Miura,S,1969,3814,,,,85000,REST,,Euros
+Monaco,20020518,Lamborghini,Miura,SV,1971,4856,,,,172000,REST+,,Euros
+Nurburgring,20020810,Lamborghini,Miura,SV,1971,4878,,,,175000,OR+,,Euros
+Goodwood,20020906,Lamborghini,Miura,SV,1972,4818,,,,112000,REST,EX-Rod Stewart,Euros
+USA,20020816,Lamborghini,Miura,,1971,4593,,,,150150,REST,,Euros
+Paris,20030616,Lamborghini,Miura,,1967,# 3168 ,,40000,,109950,EX,Frais inclus,Euros
+Paris,20020708,Maserati,430,,1989,,,,,5500,OR,,Euros
+Paris,20030331,Maserati,Bi-turbo,Spider,1991,ZAM333B00KA102165 ,LHD,96000,,7000,,,Euros
+Paris,20030616,Maserati,Ghibli,"4,9L SS",1970,AM115491440 ,,,,29485,OR+,Frais inclus,Euros
+ClassicEtRacing,200306,Maserati,Ghibli,"4,9L SS",1970,,,,,29400,,,Euros
+USA,20020816,Maserati,Khamsim,4900,1975,,LHD,,,19640,OR,,Euros
+Paris,20021118,Maserati,Khamsim,4900,1975,,LHD,,,22000,REST,Immatriculation Etrangère,Euros
+Paris,20021118,Maserati,Khamsim,4900,1975,AM120US1144 ,LHD,,30000,22000,,,Euros
+Paris,20010226,Maserati,Khamsim,4900,1977,,,,,19818,OR+,,Euros
+Monaco,20010521,Maserati,Khamsim,4900,1982,,,1204,,67078,EX,,Euros
+Paris,20020708,Maserati,Quattroporte,V6 2.8L BVM6,1995,,,,,16800,OR+,,Euros
+Paris,20020708,Maserati,Quattroporte,V8 3.2L BVA,1998,,,,,20500,OR+,,Euros
+Paris,20021118,Maserati,Quattroporte,V8 Evoluzione,1999,ZAM337B0000331781,LHD,24000,36000,30000,OR+,,Euros
+Paris,20021118,Mercedes,560,SEC,1986,WDB1260451A274994,LHD,185000,12000,8000,,,Euros
+Norwich,20021117,Mercedes,190E,2.3-16,1986,,RHD,,,4800,OR+,,Euros
+CH,20020311,Mercedes,300 SL,Coupé,1954,,,,,169800,OR+,,Euros
+USA,20020816,Mercedes,300 SL,Coupé,1954,,,,,219450,REST,,Euros
+USA,20020309,Mercedes,300 SL,Coupé,1955,,,,,224250,REST+,,Euros
+Essen,20020405,Mercedes,300 SL,Coupé,1955,,,,,201000,REST+,,Euros
+Fontainebleau,20020623,Mercedes,300 SL,Coupé,1955,,,,,185000,REST,,Euros
+USA,20020718,Mercedes,300 SL,Coupé,1955,,,,,231000,EX,EX-Don RICARDO,Euros
+Londres,20021203,Mercedes,300 SL,Coupé,1955,,,,,123200,REST,,Euros
+Nurburgring,20010811,Mercedes,300 SL,Coupé,1955,,,,,255352,REST+,,Euros
+USA,20010819,Mercedes,300 SL,Coupé,1955,,,,,259773,REST+,,Euros
+Londres,20011203,Mercedes,300 SL,Coupé,1955,,,,,184463,REST,,Euros
+ClassicEtRacing,200306,Mercedes,300 SL,Coupé,1956,,,,,185000,,,
+Paris,20030210,Mercedes,300 SL,Roadster,1956,#8467198106/5,LHD,,,272292,EX,Experimental Usine - Succession Rolf Meyer ,Euros
+Paris,20030210,Mercedes,300 SL,Roadster,1957,#19804275000246 ,LHD,,,143538,,Succession Rolf Meyer ,Euros
+Buxton,20030219,Mercedes,300 SL,Roadster,1957,,RHD,,,248000,REST+,,Euros
+Paris,20030210,Mercedes,300 SL,Roadster,1957,#19804275000261,LHD,,,210714,REST+,Succession Rolf Meyer ,Euros
+Fontainebleau,20020317,Mercedes,300 SL,Roadster,1957,,,,,117500,RAR,,Euros
+Monaco,20020517,Mercedes,300 SL,Roadster,1957,,,,,180000,RAR,,Euros
+USA,20010819,Mercedes,300 SL,Roadster,1957,,,,,364810,EX,1ère produite,Euros
+Rockingham,20010527,Mercedes,300 SL,Roadster,1957,,,,,122874,OR,,Euros
+Londres,20010730,Mercedes,300 SL,Roadster,1957,,,,,128515,OR+,,Euros
+Londres,20020722,Mercedes,300 SL,Roadster,1958,,,,,161950,OR+,EX-USA,Euros
+USA,20020818,Mercedes,300 SL,Roadster,1958,,,,,225750,REST+,,Euros
+Le Mans,20020921,Mercedes,300 SL,Roadster,1958,,,,,160000,OR+,Immatriculation UK,Euros
+Londres,20021203,Mercedes,300 SL,Roadster,1958,,,,,112000,OR,,Euros
+Paris,20011210,Mercedes,300 SL,Roadster,1958,,,,,184463,REST+,,Euros
+USA,20020309,Mercedes,300 SL,Roadster,1959,,,,,150650,OR+,,Euros
+Essen,20020405,Mercedes,300 SL,Roadster,1959,,,,,155000,REST,EX-USA,Euros
+CH,20020311,Mercedes,300 SL,Roadster,1961,,,,,183600,OR+,Freins à disque,Euros
+Monaco,20010521,Mercedes,300 SL,Roadster,1961,,,,,137204,OR+,,Euros
+Londres,20010423,Mercedes,300 SL,Roadster,1962,,,,,184158,EX,EX-Oscar Peterson,Euros
+Paris,20030616,Mercedes,300 SL,Roadster,1959,198042109800078,,98000,,160332,EX,Frais inclus,Euros
+ClassicEtRacing,200306,Mercedes,300 SL,Roadster,1957,,,,,175000,,,
+ClassicEtRacing,200306,Mercedes,300 SL,Roadster,1959,,,,,160000,,,
+Paris,20020617,Mercedes,500E,,1992,,LHD,,,20000,OR+,,Euros
+ClassicEtRacing,200306,Mercedes,CLK-GTR,,1999,,,,,733000,,,
+UK,20020211,Porsche,930,3.0L,1975,,,,,17325,OR+,,Euros
+Fontainebleau,20011118,Porsche,930,3.0L,1977,,,,,17532,OR+,,Euros
+Paris,20011210,Porsche,930,3.3L BV4,1983,,,,,24087,OR+,,Euros
+UK,20021007,Porsche,930,3.3L BV4,1984,,,,,17280,OR+,,Euros
+UK,20021007,Porsche,930,3.3L BV4,1987,,,,,21120,OR+,,Euros
+Paris,20010226,Porsche,930,Cab 3.3L,1987,,,,,27441,OR+,,Euros
+UK,20011203,Porsche,930,Cab 3.3L,1988,,,,,35368,OR+,,Euros
+Goodwood,20010706,Porsche,959,Confort,1988,,,,,142540,OR+,,Euros
+Monaco,20010521,Porsche,959,Confort,1992,,,,,213429,OR+,,Euros
+Londres,20020325,Porsche,959,,1989,,LHD,10000,,148500,EX,EX-Nick Faldo,Euros
+UK,20021112,Porsche,964,C2,1990,,,,,18400,OR+,,Euros
+Saint-Prix,20020331,Porsche,964,C2,1992,,,,,25000,OR,,Euros
+UK,20010527,Porsche,964,C4,1991,,,15,,60675,EX,,Euros
+Londres,20020430,Porsche,964,Speedster,1994,,,,,41250,OR+,,Euros
+ClassicEtRacing,200306,Porsche,911 GT1,,1998,,,,,580000,,,
+Monaco,20010521,Porsche,RS 550,A Spyder,1957,#550.0118,,,,457347,OR+,,Euros

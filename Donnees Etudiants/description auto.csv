@@ -1,0 +1,50 @@
+Marque;Modele;Type;carrosserie;Deb_construction;Fin_construction;nb_exemplaires;Type moteur;Turbo;cv_din;vitesse;nb_places
+Aston-Martin;Lagonda;Berline;Berline;;;;V8;Non;;;4
+De Tomaso;Pantera;GTS;Coupé;;;;V8;Non;;;2
+Ferrari;365;GTB/4 DAYTONA;Coupé;1968;1976;1406;V12;Non;352;278;2
+Ferrari;288;GTO;Coupé;1984;1984;271;V8;Oui;;305;2
+Ferrari;308;GTB Poly;Coupé;1975;197703;;V8;Non;;;2
+Ferrari;308;GTB;Coupé;197703;;;V8;Non;;;2
+Ferrari;308;GTS;Coupé;;;;V8;Non;;;2
+Ferrari;328;GTB;Coupé;1985;1989;1095;V8;Non;270;263;2
+Ferrari;328;GTS;Targa;1985;1989;;V8;Non;270;;2
+Ferrari;348;TB;Coupé;1989;;;V8;Non;300;;2
+Ferrari;348;Spider;Cabriolet;1993;199503;;V8;Non;300;;2
+Ferrari;348;TS;Targa;;;;V8;Non;;;2
+Ferrari;348;GTB;Coupé;;;;V8;Non;;;2
+Ferrari;348;GTS;Targa;;;;V8;Non;;;2
+Ferrari;512;BB;Coupé;1976;1981;929;V12;Non;360;302;2
+Ferrari;512;Bbi;Coupé;1981;1984;1007;V12;Non;;;2
+Ferrari;F355;GTB;Coupé;1994;1999;;V8;Non;380;295;2
+Ferrari;F40;;Coupé;1987;1991;1311;V8;Oui;478;324;2
+Ferrari;F50;Spider;Cabriolet;1995;1995;349;V12;Non;520;325;2
+Ferrari;Testarossa;;Coupé;1984;1991;;V12;Non;390;290;2
+Lamborghini;Countach;LP400;Coupé;1974;1978;158;V12;Non;375;290;2
+Lamborghini;Countach;LP400S;Coupé;1978;1982;237;V12;Non;375;290;2
+Lamborghini;Countach;LP5000S;Coupé;1982;1985;321;V12;Non;375;294;2
+Lamborghini;Countach;LP5000S QV;Coupé;1985;1988;672;V12;Non;455;299;2
+Lamborghini;Countach;Anniversario 25th;Coupé;198809;199004;657;V12;Non;455;297;2
+Lamborghini;Miura;;Coupé;1966;1970;475;V12;Non;;;2
+Lamborghini;Miura;S;Coupé;1967;1971;140;V12;Non;;;2
+Lamborghini;Miura;SV;Coupé;1971;1972;150;V12;Non;;;2
+Maserati;430;;Berline;;;;V6;Oui;250;240;5
+Maserati;Quattroporte;V6 2.8L BVM6;Berline;;;;V6;Oui;278;;5
+Maserati;Quattroporte;V8 3.2L BVM6;Berline;;;;V8;Oui;;;5
+Maserati;Quattroporte;V6 2.8L BVA;Berline;;;;V6;Oui;;;5
+Maserati;Quattroporte;V8 3.2L BVA;Berline;;;;V8;Oui;;;5
+Maserati;Quattroporte;V8 Evoluzione;Berline;;;;V8;Oui;;;5
+Mercedes;190E;2.5 16V;Berline;;;;L4;Non;195;236;5
+Mercedes;190E;2.5 16V Evolution;Berline;;;;L4;Non;195;230;5
+Mercedes;190E;2.5 16V Evolution II;Berline;;;;L4;;;;5
+Porsche;930;3.0L;Coupé;1974;1977;;V6;Oui;260;250;4
+Porsche;930;3.3L BV4;Coupé;1978;1988;;V6;Oui;300;260;4
+Porsche;930;3.3L BV5;Coupé;1989;1989;;V6;Oui;300;260;4
+Porsche;930;Cab 3.3L;Cabriolet;;;;V6;Oui;;;4
+Porsche;959;;Coupé;1987;1988;;V6;Oui;;;
+Porsche;964;C4;Coupé;1989;1994;;V6;Non;250;;4
+Porsche;964;C2;Coupé;1990;1994;;V6;Non;250;262;4
+Porsche;964;C2;Targa;1990;1994;;V6;Non;250;;4
+Porsche;964;C2;Cabriolet;1990;1994;;V6;Non;250;;4
+Porsche;964;C4;Targa;1990;1994;;V6;Non;250;;4
+Porsche;964;C4;Cabriolet;1990;1994;;V6;Non;250;;4
+Porsche;964;Speedster;Cabriolet;;;;V6;Non;250;;4
