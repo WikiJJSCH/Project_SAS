@@ -6,7 +6,7 @@
 <style type="text/css">
 <!--
 body {
-	background-image: url(../images/fondground.jpg);
+	background-image: url(images/fondground.jpg);
 }
 .Style2 {
 	font-size: 72px;
@@ -48,8 +48,8 @@ body {
                         <blockquote>
                           <blockquote>
                             <p align="left">&nbsp;</p>
-                            <p align="left">		<a href="Voiture.html"><img border = '0' src="../images/impact.png" width="104" height="92" /></a></p>
-                            <p align="left">		<a href="Voiture.html"><img border = '0' src="../images/entrez.png" width="106" height="49" /></a></p>
+                            <p align="left">		<a href="Voiture.html"><img border = '0' src="images/impact.png" width="104" height="92" /></a></p>
+                            <p align="left">		<a href="Voiture.html"><img border = '0' src="images/entrez.png" width="106" height="49" /></a></p>
                           </blockquote>
                         </blockquote>
                       </blockquote>
